@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": null,
+            "title": "These are the two big things we're watching in the stock market in the week ahead",
+            "description": "Housing data and earnings from our newest Club holding are big events in the holiday-shortened week.",
+            "url": "https://www.cnbc.com/2025/02/17/two-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107418824-1716407134799-gettyimages-2152857458-AFP_34T34PK.jpeg?v=1739553017&w=1920&h=1080",
+            "publishedAt": "2025-02-17T17:45:20Z",
+            "content": "Wall Street fought through a pair of inflation reports and more tariff headlines to post a strong week of gains. On Valentine's Day, the S &amp; P 500 even flirted with a fresh all-time high before e\u2026 [+8466 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Bill Stone, Contributor, \n Bill Stone, Contributor\n https://www.forbes.com/sites/bill_stone/",
+            "title": "Earnings, Fed Watching, And Warren Buffett\u2019s Annual Letter Ahead",
+            "description": "Earnings season has 45 companies scheduled. Berkshire Hathaway\u2019s earnings and Warren Buffett\u2019s annual letter are scheduled for the holiday-shortened week.",
+            "url": "https://www.forbes.com/sites/bill_stone/2025/02/16/earnings-fed-watching-and-warren-buffetts-annual-letter-ahead/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b1cf91b88bed16916f17cb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-02-16T12:09:13Z",
+            "content": "Consumer inflation (CPI) was higher than expected in January. One of the culprits was airfare, with ... [+] used car prices and auto insurance premiums adding to the rise. (Photo by Tim Boyle/Getty I\u2026 [+5117 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jason Kirsch, CFP(R), Contributor, \n Jason Kirsch, CFP(R), Contributor\n https://www.forbes.com/sites/investor-hub/people/Jason-Kirsch/",
+            "title": "Nvidia Earnings: What To Know About The Stock Before The Upcoming Report",
+            "description": "Preparing for Nvidia's earnings? Explore important information about the stock's performance and upcoming report.",
+            "url": "https://www.forbes.com/sites/investor-hub/article/nvidia-earnings-what-to-know-stock-report-q1-2025/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67ae373a4b87d8b5e5a3e98c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-02-15T18:00:00Z",
+            "content": "While recent developments have introduced some uncertainty, the fundamental drivers of Nvidia's ... [+] growth remain robust.\r\nNurPhoto via Getty Images\r\nAs the worlds largest semiconductor company p\u2026 [+9500 chars]"
+        }
+    ]
+}
